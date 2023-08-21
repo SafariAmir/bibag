@@ -1,0 +1,42 @@
+@font-face {
+    font-family: iranSans;
+    src: url(./fonts/IRANSansX-Medium.woff);
+}
+body {
+    font-family: 'iranSans' !important;
+    width: 100%;
+}
+
+.icon{
+    color: #0d6efd;
+    background-color: #ebeafb;
+    display: inline-flex;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.card-primary {
+    background-color: #1b2a4e;
+    color: white !important;
+}
+
+.bg-main {
+    background-color: #1b2a4e
+}
+
+.footer-link {
+    text-decoration: none;
+    color: #000;
+}
+.footer-header {
+    border-bottom: 3px solid;
+    height: 35px;
+}
+
+.footer-link:hover {
+    color: #000;
+}
+
+.no-space {
+    padding: 0;
+}
